@@ -18,3 +18,9 @@ offset_bottom = 130.0
 offset_left = 911.0
 offset_right = 1149.0
 offset_bottom = 130.0
+
+[node name="TextLabel" type="Label" parent="."]
+offset_left = 474.0
+offset_top = 450.0
+offset_right = 712.0
+offset_bottom = 580.0

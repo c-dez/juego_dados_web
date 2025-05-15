@@ -9,11 +9,15 @@ var label_1: Label
 var label_2: Label
 var label_3: Label
 
+var text_label :Label
+
 
 func _ready() -> void:
 	label_1 = get_node("Label")
 	label_2 = get_node("Label2")
 	label_3 = get_node("Label3")
+	text_label = get_node("TextLabel")
+	text_label.text= "PRESS ENTER! =)"
 	pass
 
 
